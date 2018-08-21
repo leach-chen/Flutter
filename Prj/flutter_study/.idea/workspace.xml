@@ -9,34 +9,7 @@
       <change beforePath="" afterPath="$PROJECT_DIR$/../flutter_memoryalbum/.idea/codeStyles/Project.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../flutter_memoryalbum/.idea/misc.xml" />
       <change beforePath="" afterPath="$PROJECT_DIR$/../flutter_memoryalbum/.idea/qaplug_profiles.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_album_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_album_press.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_home_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_home_press.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_media_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_media_press.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_user_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/common_tab_user_press.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/login_icon_address_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/login_icon_code_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/login_icon_password_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/images/title_btn_return_nor.png" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Layout/DevicePage.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Layout/HomePage.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Layout/LoginRegister.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Layout/MainPage.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Layout/MediaPage.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Layout/MyCenter.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Layout/MyCenterPage.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Tab/Page1.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Tab/Page2.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Tab/Page3.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Tab/Page4.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Tab/Tab1.dart" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/lib/Tab/Tab2.dart" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/lib/main.dart" afterPath="$PROJECT_DIR$/lib/main.dart" />
-      <change beforePath="$PROJECT_DIR$/pubspec.yaml" afterPath="$PROJECT_DIR$/pubspec.yaml" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -331,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1534499635442</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="add">
+      <created>1534835042774</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1534835042775</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -444,7 +424,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="fist commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="fist commit" />
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
