@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:flutter_study/MyCenter.dart';
+import 'package:flutter_study/Layout/MainPage.dart';
+import 'package:flutter_study/Tab/Tab1.dart';
+import 'package:flutter_study/Tab/Tab2.dart';
 
 void main() => runApp(new MyApp());
 
@@ -23,9 +25,9 @@ class ListPage extends StatefulWidget {
 
 class ListPageState extends State<ListPage> {
   List<String> items = <String>[
-    '布局-个人中心',
-    'B',
-    'C',
+    '布局',
+    'Tab方式1',
+    'Tab方式2',
     'D',
     'E',
     'F',
@@ -35,7 +37,10 @@ class ListPageState extends State<ListPage> {
   ];
 
   List<Widget> widthList = <Widget>[
-    new MyCenter()
+    //new MyCenter(message:"传递过来的")
+    new MainPage(),
+    new Tab1(),
+    new Tab2(),
   ];
 
 
