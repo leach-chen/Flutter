@@ -2,6 +2,8 @@ import 'dart:ui';
 
 import 'package:flutter/material.dart';
 
+import 'UI/MyCenter/MyCenterImpl.dart';
+
 void main() => runApp(selectWidget(window.defaultRouteName));
 
 
@@ -33,37 +35,9 @@ class MyApp extends StatelessWidget {
   Widget build(BuildContext context) {
     return MaterialApp(
       title: 'Flutter Demo',
+      debugShowCheckedModeBanner:false,
       theme: ThemeData(primarySwatch: Colors.blue,),
-      home: MyPage(),
+      home: MyCenterImpl(),
     );
   }
-}
-
-class MyPage extends StatefulWidget
-{
-    @override
-    State<StatefulWidget> createState() {
-      // TODO: implement createState
-      return MyPageState();
-    }
-
-}
-
-class MyPageState extends State<MyPage>
-{
-    @override
-    Widget build(BuildContext context) {
-      // TODO: implement build
-      return new Scaffold(
-        body: Center(
-          child: Container(
-            margin: new EdgeInsets.all(10),
-            child: TextField(
-              
-            ),
-          ),
-        ),
-      );
-    }
-
 }
