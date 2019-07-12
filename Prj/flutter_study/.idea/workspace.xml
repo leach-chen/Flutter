@@ -6,17 +6,38 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99c24b68-c7c6-4448-99e2-2dc511646d0b" name="Default" comment="fist commit">
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/app/src/main/java/com/example/testnativeflutter/MainActivity.kt" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/app/src/main/java/com/example/testnativeflutter/MainActivity.kt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/btn_list_arrow_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_album_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_album_press.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_home_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_home_press.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_media_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_media_press.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_user_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_user_press.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/i_img_bg_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/login_icon_address_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/login_icon_code_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/login_icon_password_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/title_btn_return_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/title_btn_setting_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/title_btn_trajectory_nor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Bean/user_info.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Data/API/APIFactory.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Data/API/APIUrl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Presenter/Home/Interfaces/IMyCenterPresenter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Presenter/Home/MyCenterPresenter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/UI/MyCenter/Interfaces/IMyCenterStateImpl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/UI/MyCenter/MyCenterImpl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/PresenterBase/BasePresenter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/PresenterBase/IBasePresenter.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/BaseImpl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/IBaseImpl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/IBaseStateImpl.dart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Utils/net_utils.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Dart_Packages.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/main_dart.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/pubspec.yaml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pubspec.lock" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.lock" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
@@ -33,8 +54,11 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/main.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="399">
-              <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+            <state relative-caret-position="1159">
+              <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#39#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -48,14 +72,50 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/lib/Layout/MyCenter.dart">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="347">
-              <caret line="189" column="36" selection-start-line="189" selection-start-column="26" selection-end-line="189" selection-end-column="36" />
+            <state relative-caret-position="384">
+              <caret line="119" column="53" selection-start-line="119" selection-start-column="53" selection-end-line="119" selection-end-column="53" />
               <folding>
                 <element signature="e#0#20#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/lib/MyCenter.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-418">
+              <caret line="10" column="42" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pubspec.yaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="171">
+              <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="342">
+              <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/Layout/MyCenterPage.dart">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="323">
+              <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -64,7 +124,7 @@
         <entry file="file://$PROJECT_DIR$/lib/Layout/MainPage.dart">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1501">
-              <caret line="85" column="24" lean-forward="true" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+              <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -109,9 +169,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="AndroidView" />
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -130,10 +188,17 @@
               <item name="lib" type="462c0819:PsiDirectoryNode" />
               <item name="Layout" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="flutter_study" type="b2602c69:ProjectViewProjectNode" />
+              <item name="flutter_study" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,7 +308,7 @@
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.49945828" visible="true" weight="0.2196162" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Build Variants" order="3" sideWeight="0.5005417" side_tool="true" weight="0.25" />
@@ -355,13 +420,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/lib/Layout/MyCenterPage.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="323">
-          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/lib/Tab/Page4.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
@@ -403,9 +461,6 @@
           <caret line="33" column="8" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="8" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://E:/SoftwareInstall/StudySoftware/Flutter/flutter/packages/flutter/lib/src/material/app.dart">
       <provider selected="true" editor-type-id="text-editor">
@@ -537,15 +592,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/pubspec.yaml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1140">
-          <caret line="60" column="10" selection-start-line="60" selection-start-column="10" selection-end-line="60" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/lib/MyCenter.dart">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1349">
-          <caret line="72" column="61" selection-start-line="72" selection-start-column="61" selection-end-line="72" selection-end-column="61" />
+        <state relative-caret-position="171">
+          <caret line="9" column="25" selection-start-line="9" selection-start-column="25" selection-end-line="9" selection-end-column="25" />
         </state>
       </provider>
     </entry>
@@ -594,14 +642,17 @@
     <entry file="file://$PROJECT_DIR$/lib/Layout/MainPage.dart">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1501">
-          <caret line="85" column="24" lean-forward="true" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
+          <caret line="85" column="24" selection-start-line="85" selection-start-column="24" selection-end-line="85" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/main.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="24" lean-forward="true" selection-start-line="24" selection-end-line="24" />
+        <state relative-caret-position="1159">
+          <caret line="61" column="26" selection-start-line="61" selection-start-column="26" selection-end-line="61" selection-end-column="26" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -614,11 +665,32 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/lib/Layout/MyCenter.dart">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="347">
-          <caret line="189" column="36" selection-start-line="189" selection-start-column="26" selection-end-line="189" selection-end-column="36" />
+        <state relative-caret-position="384">
+          <caret line="119" column="53" selection-start-line="119" selection-start-column="53" selection-end-line="119" selection-end-column="53" />
           <folding>
             <element signature="e#0#20#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test/widget_test.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="25" column="41" selection-start-line="25" selection-start-column="41" selection-end-line="25" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/Layout/MyCenterPage.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="323">
+          <caret line="17" column="26" selection-start-line="17" selection-start-column="26" selection-end-line="17" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/MyCenter.dart">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-418">
+          <caret line="10" column="42" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="42" />
         </state>
       </provider>
     </entry>

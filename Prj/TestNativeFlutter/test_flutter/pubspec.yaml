@@ -31,7 +31,11 @@ dependencies:
 dev_dependencies:
   flutter_test:
     sdk: flutter
-
+  # 网络
+  http: ^0.12.0+2
+  dio: ^2.0.15
+  cookie_jar: ^1.0.0
+  path_provider: ^1.1.0
 # For information on the generic Dart part of this file, see the
 # following page: https://dart.dev/tools/pub/pubspec
 
@@ -40,8 +44,26 @@ flutter:
   # included with your application, so that you can use the icons in
   # the material Icons class.
   uses-material-design: true
+  assets:
+    - images/btn_list_arrow_nor.png
+    - images/i_img_bg_nor.png
+    - images/title_btn_setting_nor.png
+    - images/title_btn_trajectory_nor.png
+    - images/title_btn_return_nor.png
+    - images/login_icon_address_nor.png
+    - images/login_icon_password_nor.png
+    - images/login_icon_code_nor.png
+    - images/common_tab_album_nor.png
+    - images/common_tab_album_press.png
+    - images/common_tab_home_nor.png
+    - images/common_tab_home_press.png
+    - images/common_tab_media_nor.png
+    - images/common_tab_media_press.png
+    - images/common_tab_media_press.png
+    - images/common_tab_user_nor.png
+    - images/common_tab_user_press.png
 
-  # To add Flutter specific assets to your application, add an assets section, 
+  # To add Flutter specific assets to your application, add an assets section,
   # like this:
   # assets:
   #  - images/a_dot_burr.jpeg
