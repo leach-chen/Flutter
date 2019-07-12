@@ -47,11 +47,6 @@ class MyCenterImplState<T extends BasePresenter> extends BaseFulImplState{
     (mPresenter as MyCenterPresenter).login();
   }
 
-  showToast(String str)
-  {
-      final snackBar = new SnackBar(content: new Text(str));
-      Scaffold.of(mContext).showSnackBar(snackBar);
-  }
 
 
 }

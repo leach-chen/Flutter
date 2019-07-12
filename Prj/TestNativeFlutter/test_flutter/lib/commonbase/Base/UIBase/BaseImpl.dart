@@ -39,5 +39,11 @@ abstract class BaseFulImplState<T extends BasePresenter> extends State<BaseFulIm
         );
       }
 
+      showToast(String str)
+      {
+        final snackBar = new SnackBar(content: new Text(str));
+        Scaffold.of(mContext).showSnackBar(snackBar);
+      }
+
 
 }

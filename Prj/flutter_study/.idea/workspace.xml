@@ -6,38 +6,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99c24b68-c7c6-4448-99e2-2dc511646d0b" name="Default" comment="fist commit">
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/btn_list_arrow_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_album_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_album_press.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_home_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_home_press.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_media_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_media_press.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_user_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/common_tab_user_press.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/i_img_bg_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/login_icon_address_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/login_icon_code_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/login_icon_password_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/title_btn_return_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/title_btn_setting_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/images/title_btn_trajectory_nor.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Bean/user_info.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Data/API/APIFactory.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Data/API/APIUrl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Presenter/Home/Interfaces/IMyCenterPresenter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Presenter/Home/MyCenterPresenter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/UI/MyCenter/Interfaces/IMyCenterStateImpl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/UI/MyCenter/MyCenterImpl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/PresenterBase/BasePresenter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/PresenterBase/IBasePresenter.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/BaseImpl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/IBaseImpl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/IBaseStateImpl.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Utils/net_utils.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/main.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/main.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/pubspec.yaml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Presenter/Home/MyCenterPresenter.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/Presenter/Home/MyCenterPresenter.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/UI/MyCenter/MyCenterImpl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/UI/MyCenter/MyCenterImpl.dart" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/BaseImpl.dart" beforeDir="false" afterPath="$PROJECT_DIR$/../TestNativeFlutter/test_flutter/lib/commonbase/Base/UIBase/BaseImpl.dart" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.dart_tool/" />
     <ignored path="$PROJECT_DIR$/.idea/" />
